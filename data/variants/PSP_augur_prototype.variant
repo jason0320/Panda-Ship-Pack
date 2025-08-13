@@ -1,0 +1,36 @@
+{
+    "displayName": "Prototype",
+    "fluxCapacitors": 10,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "PSP_augur",
+    "hullMods": [
+        "safetyoverrides",
+        "autorepair",
+        "unstable_injector",
+        "armoredweapons",
+        "magazines",
+        "heavyarmor",
+        "ecm",
+        "adaptive_coils"
+    ],
+    "quality": 0.0,
+    "variantId": "PSP_augur_prototype",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "amblaster",
+                "WS 002": "amblaster",
+                "WS 000": "pdburst",
+                "WS 003": "pdburst"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": { }
+        }
+    ]
+}

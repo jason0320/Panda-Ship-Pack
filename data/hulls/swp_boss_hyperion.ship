@@ -1,0 +1,162 @@
+{
+  "bounds": [
+    28.5,
+    -6,
+    24.5,
+    -17.5,
+    -1,
+    -13.5,
+    21,
+    -37,
+    6.5,
+    -44.5,
+    -21,
+    -20,
+    -24,
+    -0,
+    -21,
+    20,
+    6.5,
+    44.5,
+    21,
+    37,
+    -1,
+    13.5,
+    24.5,
+    17.5,
+    28.5,
+    6,
+    44,
+    -0
+  ],
+  "builtInMods": [
+    "high_maintenance"
+  ],
+  "center": [
+    46,
+    38
+  ],
+  "collisionRadius": 62.890778,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 64,
+      "location": [
+        -23,
+        17
+      ],
+      "style": "HIGH_TECH",
+      "width": 12
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 64,
+      "location": [
+        -18,
+        -0
+      ],
+      "style": "HIGH_TECH",
+      "width": 12
+    },
+    {
+      "angle": 180,
+      "contrailSize": 64,
+      "length": 64,
+      "location": [
+        -23,
+        -17
+      ],
+      "style": "HIGH_TECH",
+      "width": 12
+    }
+  ],
+  "height": 82,
+  "hullId": "swp_boss_hyperion",
+  "hullName": "Helios",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    7,
+    0
+  ],
+  "shieldRadius": 55,
+  "spriteName": "graphics/ships/swp_boss_hyperion.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 90,
+      "arc": 330,
+      "id": "WS 001",
+      "locations": [
+        -8,
+        10
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": -90,
+      "arc": 330,
+      "id": "WS 002",
+      "locations": [
+        -8,
+        -10
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 0,
+      "arc": 10,
+      "id": "WS 003",
+      "locations": [
+        9,
+        31
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 10,
+      "id": "WS 004",
+      "locations": [
+        9,
+        -31
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 005",
+      "locations": [
+        20,
+        13
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS 006",
+      "locations": [
+        20,
+        -13
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "UNIVERSAL"
+    }
+  ],
+  "width": 92
+}

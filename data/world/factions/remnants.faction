@@ -1,0 +1,18 @@
+{
+	"knownShips":{
+		"hulls":[
+		],
+	},
+	"knownFighters":{
+		"fighters":[
+		],
+	},
+	"hullFrequency":{		
+		"hulls":{
+		},
+		"fighters":{
+		},
+	},
+	
+},
+

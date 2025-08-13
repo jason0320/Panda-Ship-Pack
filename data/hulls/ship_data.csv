@@ -1,0 +1,9 @@
+name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,traveldrive,number
+#FRIGATES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Augur,PSP_augur,Automated Phase Frigate,Remnant,maneuveringjets,10,1250,250,2500,1250,500,90,,130,100,90,90,120,150,PHASE,phasecloak,90,,,0.06,0.06,0,5,10,10,1,10,10,150000,5,5,620,0.25,15,30,UNBOARDABLE,"remnant, auto_rec, codex_unlockable",0.7,0.5,2,3,,307.5
+Helios,swp_boss_hyperion,Mod-Frigate,Unique High Tech,phaseteleporter,16,1000,150,4000,4375,350,70,,175,200,175,120,480,150,FRONT,,360,0.5,0.6,,,5,15,10,10,1,10,11,145000,6,50,120,0.25,20,30,,"no_autofit, no_drop, no_bp_drop, no_dealer, codex_unlockable",,0.75,2,2,,202
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#DESTROYERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#CRUISERS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agreement,DEX_sierrawendigo,Phase Cruiser,Anomalous Phase-Tech,ammofeed,15,11000,1200,6000,12000,600,180,,70,60,60,15,20,1000,PHASE,sotf_concordshift,,,,0.05,0.08,0,0,100,75,3,25,8,100000,5,20,480,0.25,18,18,HIDE_IN_CODEX," no_dealer, special_allows_system_use, system_allows_special_use",,0.7,3,4,sotf_concordentry,406.5

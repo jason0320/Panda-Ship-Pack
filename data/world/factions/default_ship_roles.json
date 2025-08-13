@@ -1,0 +1,6 @@
+{
+	"phaseSmall":{
+		"PSP_augur_prototype":5,
+		"fallback":{"combatSmall":1},
+	}
+}
