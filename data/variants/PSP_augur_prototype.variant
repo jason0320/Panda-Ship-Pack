@@ -1,16 +1,15 @@
 {
     "displayName": "Prototype",
     "fluxCapacitors": 10,
-    "fluxVents": 8,
+    "fluxVents": 9,
     "goalVariant": true,
     "hullId": "PSP_augur",
     "hullMods": [
         "safetyoverrides",
         "autorepair",
         "unstable_injector",
-        "armoredweapons",
-        "magazines",
-        "heavyarmor"
+        "heavyarmor",
+        "adaptive_coils"
     ],
     "quality": 0.0,
     "variantId": "PSP_augur_prototype",
