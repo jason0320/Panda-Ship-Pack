@@ -22,15 +22,16 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 001": "amblaster",
-                "WS 002": "amblaster",
-                "WS 000": "pdburst",
-                "WS 003": "pdburst"
+                "WS 002": "amblaster"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
-            "weapons": { }
+            "weapons": {
+                "WS 003": "pdburst",
+                "WS 000": "pdburst"
+            }
         }
     ]
 }
