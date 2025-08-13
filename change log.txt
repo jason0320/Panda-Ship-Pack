@@ -1,3 +1,6 @@
+Version 0.0.2 (August 13, 2025)
+- Fix Augur weapon group
+
 Version 0.0.1 (August 13, 2025)
 - Add Augur, Remnant Phase Ship
 - Add 2 console only ship, one is revival of old SWP boss Hyperion, another is unreleased DEX Sierra's Wendigo, might remove in the future
