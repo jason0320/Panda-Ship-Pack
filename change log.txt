@@ -1,3 +1,6 @@
+Version 0.0.3 (August 13, 2025)
+- Changed Augur weapons
+
 Version 0.0.2 (August 13, 2025)
 - Fix Augur weapon group
 
